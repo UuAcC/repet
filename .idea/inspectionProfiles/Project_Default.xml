@@ -1,0 +1,136 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="alembic" />
+            <item index="1" class="java.lang.String" itemvalue="aniso8601" />
+            <item index="2" class="java.lang.String" itemvalue="zipp" />
+            <item index="3" class="java.lang.String" itemvalue="pytz" />
+            <item index="4" class="java.lang.String" itemvalue="Mako" />
+            <item index="5" class="java.lang.String" itemvalue="importlib-metadata" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E712" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N801" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.PyQt5" />
+          <option value="PyQt5.uic" />
+          <option value="INTERPOLATOR.MyWidget.lin_btn" />
+          <option value="INTERPOLATOR.MyWidget.add_btn" />
+          <option value="INTERPOLATOR.MyWidget.del_btn" />
+          <option value="INTERPOLATOR.MyWidget.text" />
+          <option value="INTERPOLATOR.MyWidget.table" />
+          <option value="INTERPOLATOR.MyWidget.add_table" />
+          <option value="INTERPOLATOR.MyWidget.stackedWidget" />
+          <option value="INTERPOLATOR.MyWidget.del_table" />
+          <option value="INTERPOLATOR.MyWidget.pick_x_1" />
+          <option value="INTERPOLATOR.MyWidget.pick_x_2" />
+          <option value="INTERPOLATOR.MyWidget.pick_y_1" />
+          <option value="INTERPOLATOR.MyWidget.pick_y_2" />
+          <option value="INTERPOLATOR.MyWidget.pick_need_x" />
+          <option value="INTERPOLATOR.MyWidget.return_btn" />
+          <option value="INTERPOLATOR.MyWidget.eval_btn" />
+          <option value="INTERPOLATOR.MyWidget.x_1" />
+          <option value="INTERPOLATOR.MyWidget.x_2" />
+          <option value="INTERPOLATOR.MyWidget.y_1" />
+          <option value="INTERPOLATOR.MyWidget.y_2" />
+          <option value="INTERPOLATOR.MyWidget.need_x" />
+          <option value="INTERPOLATOR.MyWidget.need_y" />
+          <option value="INTERPOLATOR.MyWidget.used_label" />
+          <option value="INTERPOLATOR.INTERPOLATOR.lin_graph_hand" />
+          <option value="INTERPOLATOR.INTERPOLATOR.used_label" />
+          <option value="INTERPOLATOR.INTERPOLATOR.stackedWidget" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bitabWidget" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bitable_hand" />
+          <option value="INTERPOLATOR.INTERPOLATOR.lintable" />
+          <option value="INTERPOLATOR.INTERPOLATOR.x_1" />
+          <option value="INTERPOLATOR.INTERPOLATOR.x_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.y_1" />
+          <option value="INTERPOLATOR.INTERPOLATOR.y_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.need_x" />
+          <option value="INTERPOLATOR.INTERPOLATOR.need_y" />
+          <option value="INTERPOLATOR.INTERPOLATOR.lin_graph_view" />
+          <option value="INTERPOLATOR.INTERPOLATOR.tabWidget" />
+          <option value="INTERPOLATOR.INTERPOLATOR.used_label_tab" />
+          <option value="INTERPOLATOR.INTERPOLATOR.lintab_graph_view" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bilintable" />
+          <option value="INTERPOLATOR.INTERPOLATOR.lin_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bilin_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.return_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.return_btn_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.return_btn_3" />
+          <option value="INTERPOLATOR.INTERPOLATOR.eval_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.evaltab_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.asked_x" />
+          <option value="INTERPOLATOR.INTERPOLATOR.used_label_bilin" />
+          <option value="INTERPOLATOR.QUESTWINDOW.text" />
+          <option value="INTERPOLATOR.QUESTWINDOW.stack" />
+          <option value="INTERPOLATOR.INTERPOLATOR.used_label_bilin_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bilin_asked_x" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bilin_asked_y" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bilin_graph_view" />
+          <option value="INTERPOLATOR.INTERPOLATOR.result_y" />
+          <option value="INTERPOLATOR.INTERPOLATOR.result_z" />
+          <option value="INTERPOLATOR.QUESTWINDOW.hand_lin" />
+          <option value="INTERPOLATOR.QUESTWINDOW.tab_lin" />
+          <option value="INTERPOLATOR.QUESTWINDOW.hand_bilin" />
+          <option value="INTERPOLATOR.INTERPOLATOR.choosing_btn_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.label_of_tab_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.choosing_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.label_of_tab" />
+          <option value="INTERPOLATOR.INTERPOLATOR.text" />
+          <option value="INTERPOLATOR.INTERPOLATOR.question_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.question_btn_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.question_btn_3" />
+          <option value="INTERPOLATOR.INTERPOLATOR.eval_btn_bilin_hand" />
+          <option value="INTERPOLATOR.INTERPOLATOR.eval_btn_bilin_tab" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bilin_result_z" />
+          <option value="INTERPOLATOR.INTERPOLATOR.bilintab_graph_view" />
+          <option value="INTERPOLATOR.QUESTWINDOW.tab_bilin" />
+          <option value="INTERPOLATOR.INTERPOLATOR.return_btn_4" />
+          <option value="INTERPOLATOR.INTERPOLATOR.question_btn_4" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_table" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_x_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.used_label_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.ministack" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_asked_x" />
+          <option value="INTERPOLATOR.INTERPOLATOR.textBrowser" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_result_y" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_x_1" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_y_1" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_y_2" />
+          <option value="INTERPOLATOR.INTERPOLATOR.useformule_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.base_eval_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR.show_btn" />
+          <option value="INTERPOLATOR.INTERPOLATOR._label" />
+          <option value="trying_so_hard.typing" />
+          <option value="PyQt5.Qt.Horizontal" />
+          <option value="str.clear" />
+          <option value="str.append" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
