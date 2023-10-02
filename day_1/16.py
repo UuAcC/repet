@@ -1,4 +1,4 @@
-def F(n):
+def f(n):
     res = 1
     while n > 1:
         res *= n
@@ -6,4 +6,4 @@ def F(n):
     return res
 
 
-print(F(2023) / F(2020))
+print(f(2023) / f(2020))
