@@ -1,0 +1,8 @@
+f = open('45258.txt')
+s = f.readline()
+s = s.replace('AB', '1')
+s = s.replace('CB', '1')
+s = s.replace('A', ' ')
+s = s.replace('B', ' ')
+s = s.replace('C', ' ')
+print(len(max(s.split())))
