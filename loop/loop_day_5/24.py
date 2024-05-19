@@ -1,4 +1,4 @@
-s = open('24.txt').readline()
+s = open('24.txt').readline()[:-1]
 a_T = []
 a_U = []
 res = 0
